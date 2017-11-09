@@ -1,6 +1,6 @@
-1. To design and develop Arti.City, a global crowdfunding platform for art restoration.
-2. To use the tools of Arti.City to update the PreserVenice website.
-3. To plan for future development and organization of Arti.City.
+1. To plan for future development and organization of Arti.City.
+2. To design and develop Arti.City, a global crowdfunding platform for art restoration.
+3. To use the tools of Arti.City to update the PreserVenice website.
 4. To use the tools of Arti.City and PreserVenice to update the database of Venetian inscriptions.
 
 a
