@@ -2,3 +2,5 @@
 2. To use the tools of Arti.City to update the PreserVenice website.
 3. To plan for future development and organization of Arti.City.
 4. To use the tools of Arti.City and PreserVenice to update the database of Venetian inscriptions.
+
+a
